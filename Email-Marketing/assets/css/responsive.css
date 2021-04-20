@@ -1,0 +1,1228 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .header-contact li {
+        padding-right: 0px;
+        font-size: 12px;
+    }
+
+    .header-contact span {
+        transform: translate(-131px, -22px);
+    }
+
+    .header-contact li img {
+        padding-right: 0px;
+    }
+
+    .menubar ul li {
+        padding: 0px 6px 0px 0;
+    }
+
+    .menubar-two ul li {
+        padding: 22px 0px 30px 23px;
+    }
+
+    .benner-laft-icon:before {
+        display: none;
+    }
+
+    .benner-laft-icon:after {
+        display: none;
+    }
+
+    .benner-area .banner-weper:before {
+        display: none;
+    }
+
+    .benner-area .banner-weper:after {
+        display: none;
+    }
+
+    .banner-text:before {
+        display: none;
+    }
+
+    .banner-text .read {
+        margin-top: 0px;
+    }
+
+    .banner-text .read spen {
+        left: 145px;
+        right: 0;
+        top: 24px;
+    }
+
+    .benner-area:after {
+        display: none;
+    }
+
+    .benner-right-icon:before {
+        right: 22px;
+    }
+
+    .benner-right-icon:after {
+        display: none;
+    }
+
+    .benner-area:before {
+        display: none;
+    }
+
+    .about-weper ul li {
+        padding-left: 70px;
+    }
+
+    .project:before {
+        display: none;
+    }
+
+    .project-title:after {
+        top: -20px;
+        left: -29px;
+    }
+
+    .project:after {
+        display: none;
+    }
+
+    .project .project-bg {
+        display: none;
+    }
+
+    .project .project-bg-two {
+        display: none;
+    }
+
+    .slick-prev:before,
+    .slick-next:before {
+        display: none;
+    }
+
+    .member-item-weper .member-item-titel p {
+        font-size: 14px;
+    }
+
+    .member-item-weper .member-item-titel h4 {
+        margin: 0 115px;
+    }
+
+    .member-link ul li {
+        padding-left: 25px;
+    }
+
+    .member-link {
+        padding-top: 10px;
+    }
+
+    .silver-list {
+        margin: 35px 0 5px 70px;
+    }
+
+    .contract-titel img {
+        width: 100%;
+    }
+
+    .footer-link {
+        padding: 212px 0 50px 0;
+    }
+
+    .footer-area:before {
+        top: 40%;
+    }
+
+    .company-weper ul li {
+        padding: 35px 35px;
+    }
+
+    .section-titel p {
+        margin: 0px 300px;
+    }
+
+    .parson-photo img {
+        width: 100%;
+    }
+
+    .parson-name h2 {
+        font-size: 19px;
+    }
+
+    .parson-name p {
+        padding: 14px 48px 15px 5px;
+    }
+
+    .member-link.team-two ul li {
+        padding-left: 17px;
+    }
+
+    .member-link.team-two {
+        width: 88%;
+        right: 14px;
+    }
+
+    .footer-area.page-two-ft .footer-link {
+        padding: 100px 0 60px;
+    }
+
+}
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .header-contact li {
+        padding-right: 20px;
+        font-size: 12px;
+    }
+
+    .header-contact span {
+        transform: translate(-131px, -22px);
+    }
+
+    .header-contact li img {
+        padding-right: 0px;
+    }
+
+    .menubar ul li {
+        padding: 8px 6px 0px 0;
+    }
+
+    .menubar ul li {
+        font-size: 18px;
+    }
+
+    .menubar-two ul li {
+        padding: 22px 0px 26px 17px;
+    }
+
+    .benner-laft-icon:before {
+        display: none;
+    }
+
+    .benner-laft-icon:after {
+        display: none;
+    }
+
+    .benner-area .banner-weper:before {
+        display: none;
+    }
+
+    .benner-area .banner-weper:after {
+        display: none;
+    }
+
+    .banner-text {
+        background: none;
+    }
+
+    .banner-text {
+        margin-top: 30px;
+    }
+
+    .banner-text:before {
+        display: none;
+    }
+
+    .banner-text .read {
+        margin-top: 0px;
+    }
+
+    .banner-text h5 {
+        font-size: 30px;
+        padding-top: 45px;
+    }
+
+    .banner-text p {
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+
+    .banner-text spen {
+        font-size: 70px;
+    }
+
+    .banner-text h6 {
+        font-size: 39px;
+    }
+
+    .banner-text .read spen {
+        left: 103px;
+        right: 0;
+        top: 30px;
+    }
+
+    .benner-area:after {
+        display: none;
+    }
+
+    .benner-right-icon:before {
+        right: 22px;
+    }
+
+    .benner-right-icon:after {
+        display: none;
+    }
+
+    .benner-area:before {
+        display: none;
+    }
+
+    .benner-right-icon:before {
+        display: none;
+    }
+
+    .banner-weper-two {
+        padding: 250px 0;
+    }
+
+    .banner-titel h2 {
+        font-size: 62px;
+    }
+
+    .banner-titel p {
+        padding-top: 25px;
+        font-size: 22px;
+    }
+
+    .banner-titel .banner-btn {
+        margin-top: 55px;
+    }
+
+    .banner-titel .banner-btn a {
+        font-size: 20px;
+        padding: 15px 30px;
+    }
+
+    .about-us-area {
+        margin: 150px 0;
+    }
+
+    .about-weper ul li {
+        padding-left: 23px;
+    }
+
+    .about-text-weper h6 {
+        padding-right: 0px;
+        font-size: 33px;
+    }
+
+    .about-text-weper h2 {
+        font-size: 20px;
+    }
+
+    .about-text-weper p {
+        font-size: 15px;
+        padding-right: 27px;
+    }
+
+    .about-text-weper h3 {
+        font-size: 18px;
+    }
+
+    .about-weper-two {
+        margin-left: 0;
+    }
+
+    .about-weper-two .title {
+        margin-right: 0;
+    }
+
+    .about-weper-two .title p {
+        margin-bottom: 0px;
+    }
+
+    .about-weper-two .text p {
+        font-size: 15px;
+    }
+
+    .about-text-left {
+        margin-top: 10px;
+    }
+
+    .about-text-left p {
+        font-size: 19px;
+        line-height: 25px;
+    }
+
+    .about-activetion {
+        margin-top: 10px;
+        margin-left: 74px;
+    }
+
+    .project-title h2 {
+        font-size: 30px;
+    }
+
+    .project-itembar {
+        text-align: center;
+    }
+
+    .project-itembar .mixitup_btn {
+        margin-right: 7px;
+    }
+
+    .project-item .item-image .item-text h2 {
+        font-size: 15px;
+        margin: 0;
+    }
+
+    .project-title-two p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .item-image .item-text {
+        padding: 0;
+    }
+
+    .project-item:after {
+        bottom: -17px;
+    }
+
+    .project:before {
+        display: none;
+    }
+
+    .project-title:after {
+        top: -20px;
+        left: -29px;
+    }
+
+    .project:after {
+        display: none;
+    }
+
+    .project .project-bg {
+        display: none;
+    }
+
+    .project .project-bg-two {
+        display: none;
+    }
+
+    .slick-prev:before,
+    .slick-next:before {
+        display: none;
+    }
+
+    .member-item {
+        margin-top: 100px;
+    }
+
+    .member-item-weper .member-item-titel p {
+        font-size: 14px;
+        margin: 30px 1px;
+    }
+
+    .member-item-weper .member-item-titel h2 {
+        font-size: 20px;
+    }
+
+    .member-item-weper .member-item-titel h4 {
+        margin: 0 60px;
+    }
+
+    .member-link ul li {
+        padding-left: 18px;
+    }
+
+    .member-link {
+        padding-top: 10px;
+    }
+
+    .member-item-weper .member-item-titel {
+        padding: 16px 0;
+    }
+
+    .plan-area {
+        padding: 150px 0;
+    }
+
+    .plan-area .plan-titel h2 {
+        font-size: 30px;
+    }
+
+    .plan-area .plan-titel h4 {
+        font-size: 18px;
+    }
+
+    .silver h2 {
+        padding: 10px 0 10px 10px;
+        font-size: 21px;
+    }
+
+    .amount h5 {
+        font-size: 33px;
+    }
+
+    .amount {
+        margin: 0px 7px;
+    }
+
+    .silver-list ul li {
+        padding-bottom: 5px;
+    }
+
+    .silver-list {
+        margin: 35px 0 5px 9px;
+    }
+
+    .contract-area {
+        margin-top: 150px;
+    }
+
+    .contract-titel p {
+        font-size: 16px;
+    }
+
+    .contract-titel img {
+        width: 100%;
+    }
+
+    .from-weper .titel {
+        padding: 36px 0 0 0;
+    }
+
+    .from-weper textarea {
+        height: 70px;
+    }
+
+    .from-weper input,
+    .from-weper textarea {
+        margin: 10px 16px;
+    }
+
+
+    input[type="submit"] {
+        width: 57%;
+    }
+
+    .footer-area {
+        margin-top: 0;
+    }
+
+    .footer-link {
+        padding: 212px 0 50px 0;
+    }
+
+    .footer-area:before {
+        top: 40%;
+    }
+
+    .company-weper ul li {
+        padding: 35px 10px;
+    }
+
+    .section-titel p {
+        margin: 0px 180px;
+    }
+
+    .parson-photo img {
+        width: 100%;
+    }
+
+    .parson-name h2 {
+        font-size: 19px;
+    }
+
+    .parson-name p {
+        padding: 14px 25px 15px 5px;
+    }
+
+
+    .pric-wepar .titel {
+        padding: 15px 19px;
+        top: 25%;
+    }
+
+    .pric-wepar .titel h3 {
+        font-size: 24px;
+    }
+
+    .pric-wepar .titel h4 {
+        font-size: 15px;
+    }
+
+    .package h2 {
+        font-size: 22px;
+        line-height: 29px;
+        padding: 14px 0;
+    }
+
+    .from-two-area .titel {
+        text-align: center;
+    }
+
+    .from-two-wepar .submit-btn-two {
+        width: 45%;
+    }
+
+    .member-link.team-two ul li {
+        padding-left: 17px;
+    }
+
+    .member-link.team-two {
+        width: 88%;
+        right: 14px;
+    }
+
+    .footer-area.page-two-ft .footer-link {
+        padding: 100px 0 60px;
+    }
+
+}
+
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    .heder-area {
+        display: none;
+    }
+
+    .header-contact {
+        display: none;
+    }
+
+    .header-two {
+        display: none;
+    }
+
+    .menubar {
+        display: none;
+    }
+
+    .mein-logo {
+        padding-top: 10px;
+    }
+
+    .slicknav_menu {
+        display: block;
+        position: absolute;
+        width: 100%;
+        top: 19%;
+        left: 0;
+        z-index: 999;
+        padding: 0;
+        margin: 0;
+    }
+
+    .slicknav_btn {
+        position: absolute;
+        right: 27px;
+        top: -50px;
+        margin: 0;
+        z-index: 999;
+        background: #15AD7D;
+        padding: 10px;
+        color: #fff;
+    }
+
+    .slicknav_open {
+        background: #15AD7D;
+        padding: 10px;
+        position: inherit;
+        right: 27px;
+        top: -50px;
+        margin: 0;
+        z-index: 999;
+    }
+
+    .slicknav_menu .slicknav_icon-bar {
+        background-color: #fff;
+    }
+
+
+    .slicknav_menu .slicknav_menutxt {
+        display: none;
+    }
+
+    .benner-laft-icon:before {
+        display: none;
+    }
+
+    .benner-laft-icon:after {
+        display: none;
+    }
+
+    .benner-area .banner-weper:before {
+        display: none;
+    }
+
+    .benner-area .banner-weper:after {
+        display: none;
+    }
+
+    .banner-text {
+        background: none;
+    }
+
+    .banner-text {
+        margin-top: 30px;
+    }
+
+    .banner-text:before {
+        display: none;
+    }
+
+    .banner-text .read {
+        margin-top: 0px;
+    }
+
+    .banner-text h5 {
+        font-size: 30px;
+        padding-top: 45px;
+        line-height: 10px;
+    }
+
+    .banner-text h5 {
+        font-size: 24px;
+    }
+
+    .banner-text spen {
+        font-size: 60px;
+    }
+
+    .banner-text h6 {
+        font-size: 34px;
+        margin-top: 0px;
+    }
+
+    .banner-text p {
+        font-size: 15px;
+        padding-bottom: 0px;
+    }
+
+    .banner-text spen {
+        font-size: 50px;
+    }
+
+    .banner-text h6 {
+        font-size: 30px;
+        line-height: 40px
+    }
+
+    .banner-text .read spen {
+        display: none;
+    }
+
+    .benner-right img {
+        margin-top: 0px;
+    }
+
+    .benner-area:after {
+        display: none;
+    }
+
+    .benner-right-icon:before {
+        right: 22px;
+    }
+
+    .benner-right-icon:after {
+        display: none;
+    }
+
+    .benner-area:before {
+        display: none;
+    }
+
+    .benner-right-icon:before {
+        display: none;
+    }
+
+    .banner-weper-two {
+        padding: 100px 0;
+    }
+
+    .banner-titel {
+        text-align: center;
+    }
+
+    .banner-titel h5 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    .banner-titel h2 {
+        font-size: 40px;
+    }
+
+    .banner-titel p {
+        padding-top: 15px;
+        font-size: 15px;
+    }
+
+    .banner-titel .banner-btn {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .banner-titel .banner-btn a {
+        font-size: 20px;
+        padding: 15px 30px;
+    }
+
+    .about-area {
+        display: none;
+    }
+
+    .about-us-area {
+        margin: 50px 0;
+        text-align: center;
+    }
+
+    .about-weper ul li {
+        padding-left: 23px;
+    }
+
+    .about-weper-two .title h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .about-text-weper h6 {
+        padding-right: 0px;
+        font-size: 33px;
+    }
+
+    .about-text-weper h2 {
+        font-size: 20px;
+    }
+
+    .about-text-weper p {
+        font-size: 15px;
+        padding-right: 27px;
+    }
+
+    .about-text-weper h3 {
+        font-size: 18px;
+    }
+
+    .about-weper-two {
+        margin-left: 0;
+    }
+
+    .about-weper-two .title {
+        margin-right: 0;
+    }
+
+    .about-weper-two .title p {
+        font-size: 17px;
+        line-height: 25px;
+    }
+
+    .about-weper-two .title p {
+        margin-bottom: 0px;
+    }
+
+    .about-weper-two .text p {
+        font-size: 15px;
+    }
+
+    .about-text-left {
+        margin-top: 10px;
+    }
+
+    .about-text-left p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .about-activetion {
+        display: none;
+    }
+
+    .about-img {
+        display: none;
+    }
+
+    .project-title-two {
+        text-align: center;
+    }
+
+    .project-title {
+        text-align: center;
+    }
+
+    .project-title h2 {
+        font-size: 25px;
+        line-height: 20px;
+    }
+
+    .project-itembar {
+        margin-top: 10px;
+    }
+
+    .project-itembar {
+        text-align: center;
+    }
+
+    .project-itembar .mixitup_btn {
+        margin-right: 5px;
+        margin-bottom: 10px;
+        font-size: 15px;
+    }
+
+    .project-itembar .mixitup_btn.mixitup-control-active {
+        padding: 5px;
+    }
+
+    .project-item .item-image .item-text h2 {
+        font-size: 15px;
+        margin: 0;
+    }
+
+    .project-title-two p {
+        font-size: 15px;
+        line-height: 16px;
+        margin: 0;
+    }
+
+    .item-image .item-text {
+        padding: 0;
+    }
+
+    .project-item:after {
+        bottom: -17px;
+    }
+
+    .project:before {
+        display: none;
+    }
+
+    .project-title:after {
+        top: -20px;
+        left: -29px;
+    }
+
+    .project:after {
+        display: none;
+    }
+
+    .project .project-bg {
+        display: none;
+    }
+
+    .project .project-bg-two {
+        display: none;
+    }
+
+    .team-member {
+        display: none;
+    }
+
+    .company-weper {
+        text-align: center;
+    }
+
+    .slick-prev:before,
+    .slick-next:before {
+        display: none;
+    }
+
+    .member-item {
+        margin-top: 100px;
+    }
+
+    .member-item-weper .member-item-titel p {
+        font-size: 14px;
+        margin: 30px 1px;
+    }
+
+    .member-item-weper .member-item-titel h2 {
+        font-size: 20px;
+    }
+
+    .member-item-weper .member-item-titel h4 {
+        margin: 0 60px;
+    }
+
+    .member-link ul li {
+        padding-left: 18px;
+    }
+
+    .member-link {
+        padding-top: 10px;
+    }
+
+    .member-item-weper .member-item-titel {
+        padding: 16px 0;
+    }
+
+    .menubar-two:before {
+        display: none;
+    }
+
+    .mein-logo-two {
+        margin-top: 0px;
+    }
+
+    .menu-area-two {
+        top: 8px;
+    }
+
+    .plan-area {
+        padding: 30px 0;
+    }
+
+    .plan-area .plan-titel:before {
+        display: none;
+    }
+
+    .plan-area .plan-titel:after {
+        display: none;
+    }
+
+    .plan-area .plan-titel h2 {
+        font-size: 25px;
+    }
+
+    .plan-area .plan-titel h4 {
+        font-size: 14px;
+        line-height: 0px;
+    }
+
+    .plan-item {
+        margin-top: 60px;
+    }
+
+    .silver {
+        margin-bottom: 50px;
+    }
+
+    .silver h2 {
+        padding: 10px 0 10px 10px;
+        font-size: 21px;
+    }
+
+    .amount h5 {
+        font-size: 33px;
+    }
+
+    .amount {
+        margin: 0px 7px;
+    }
+
+    .silver-list ul li {
+        padding-bottom: 5px;
+    }
+
+    .silver-list {
+        margin: 35px 0 5px 9px;
+    }
+
+    .contract-area {
+        margin-top: 30px;
+    }
+
+    .contract-titel {
+        text-align: center;
+    }
+
+    .contract-titel h2 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .from-two-area {
+        margin: 90px 0;
+    }
+
+    .from-two-area .titel h3 {
+        font-size: 30px;
+    }
+
+    .from-two-area .titel h3 span {
+        font-size: 30px;
+    }
+
+    .from-two-area .titel p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .from-two-wepar input {
+        padding: 0px 0 0px 15px;
+        font-size: 15px;
+    }
+
+    .contract-titel p {
+        font-size: 14px;
+    }
+
+    .from-weper .titel h2 {
+        font-size: 25px;
+        line-height: 15px;
+    }
+
+    .contract-titel img {
+        width: 100%;
+    }
+
+    .from-weper .titel {
+        padding: 36px 0 0 0;
+    }
+
+    .from-weper textarea {
+        height: 70px;
+    }
+
+    .from-weper input,
+    .from-weper textarea {
+        margin: 10px 14px;
+    }
+
+    input[type="submit"] {
+        width: 57%;
+    }
+
+    .footer-area {
+        margin-top: 15px;
+        background: linear-gradient(253.22deg, #083CCE 34.89%, #2872EC 89.46%);
+    }
+
+    .footer-link {
+        padding: 20px 0 10px 20px;
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .copright p {
+        font-size: 12px;
+        line-height: 10px;
+    }
+
+    .footer-area:before {
+        display: none;
+    }
+
+    .company-weper ul li {
+        padding: 15px 0px;
+        display: block;
+    }
+
+    .compamy-area {
+        margin: 50px 0;
+    }
+
+    .section-titel p {
+        margin: 0px 0px;
+        font-size: 15px;
+        line-height: 21px;
+    }
+
+    .parson-photo img {
+        width: 100%;
+    }
+
+    .parson-name h2 {
+        font-size: 19px;
+    }
+
+    .parson-name p {
+        padding: 14px 25px 15px 5px;
+    }
+
+
+    .pric-wepar .titel {
+        padding: 15px 19px;
+        top: 25%;
+    }
+
+    .pric-wepar .titel h3 {
+        font-size: 24px;
+    }
+
+    .pric-wepar .titel h4 {
+        font-size: 15px;
+    }
+
+    .section-titel h3 span {
+        font-size: 30px;
+    }
+
+    .section-titel h3 {
+        font-size: 30px;
+    }
+
+    .package h2 {
+        font-size: 22px;
+        line-height: 29px;
+        padding: 14px 0;
+    }
+
+    .from-two-area .titel {
+        text-align: center;
+    }
+
+    .from-two-wepar .submit-btn-two {
+        width: 45%;
+    }
+
+    .member-link.team-two ul li {
+        padding-left: 30px;
+    }
+
+    .team-area {
+        margin: 70px 0;
+    }
+
+    .team-weper {
+        padding: 30px 0;
+    }
+
+    .member-link.team-two {
+        width: 91%;
+        right: 15px;
+        bottom: 30px;
+    }
+
+    .back-to-top img {
+        padding: 10px 10px 0 10px;
+    }
+
+    .bottom-to-top {
+        border: 2px solid #1E1E1E;
+        top: -50px;
+        width: 37%;
+        left: 198px;
+    }
+
+    .footer-area.page-two-ft .footer-link {
+        padding: 20px 0 20px;
+        text-align: center;
+    }
+
+}
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .container {
+        width: 450px
+    }
+
+    .footer-link {
+        text-align: center;
+    }
+
+    .member-link.team-two {
+        width: 93%;
+        right: 15px;
+        bottom: 30px;
+    }
+
+    .member-link.team-two ul li {
+        padding-left: 55px;
+    }
+
+    .pric-wepar .titel {
+        padding: 35px 40px;
+        top: 25%;
+    }
+
+    .bottom-to-top {
+        top: -50px;
+        width: 25%;
+        left: 332px;
+    }
+}
